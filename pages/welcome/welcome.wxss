@@ -1,3 +1,7 @@
+page {
+  background-color: #ecc0a8;
+}
+
 .container {
   display: flex;
   flex-direction: column;
